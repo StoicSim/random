@@ -1,5 +1,5 @@
-# random
-random
+//text for 
+
 #include <graphics.h>
 #include <stdlib.h>
 #include <stdio.h>
